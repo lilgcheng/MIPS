@@ -1,0 +1,52 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Verliog_practice/CPU10/CPU10_tb_isim_beh.exe" -prj "C:/Verliog_practice/CPU10/CPU10_tb_beh.prj" "work.CPU10_tb" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Verliog_practice/CPU10/Shift_left.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/SE.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/RF.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/PC.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/MUX21_5.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/MUX21_32.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/Mem.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/Left.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/Jump.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/IR.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/CU.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/AND.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/ALUcontrol.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/ALU.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/Adder.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/Add.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/CPU10.v" into library work
+Analyzing Verilog file "C:/Verliog_practice/CPU10/CPU10_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "C:/Verliog_practice/CPU10/CPU10.v" Line 82: Port Reset is not connected to this instance
+Completed static elaboration
+Compiling module PC
+Compiling module Add
+Compiling module IR
+Compiling module Shift_left
+Compiling module CU
+Compiling module MUX21_5
+Compiling module RF
+Compiling module SE
+Compiling module Left
+Compiling module MUX21_32
+Compiling module ALUcontrol
+Compiling module Adder
+Compiling module ALU
+Compiling module Mem
+Compiling module AND
+Compiling module Jump
+Compiling module CPU10
+Compiling module CPU10_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 8 sub-compilation(s) to finish...
+Compiled 19 Verilog Units
+Built simulation executable C:/Verliog_practice/CPU10/CPU10_tb_isim_beh.exe
+Fuse Memory Usage: 28888 KB
+Fuse CPU Usage: 781 ms

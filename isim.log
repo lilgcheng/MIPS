@@ -1,0 +1,339 @@
+ISim log file
+Running: C:\Verliog_practice\CPU10\CPU10_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Verliog_practice/CPU10/CPU10_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U6/, width 5 of formal port MUX_OUT is not equal to width 32 of actual signal wa.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 75.  For instance uut/U7/, width 5 of formal port wa is not equal to width 32 of actual signal wa.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Verliog_practice/CPU10/CPU10.v" Line 41.  For instance uut/U5/, width 6 of formal port Opcode is not equal to width 5 of actual signal inst31_26.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
